@@ -1,0 +1,72 @@
+#signinPopover {
+
+    padding: 24px 24px 12px;
+    border-radius: 16px;
+    max-width: 280px;
+
+}
+
+#signinPopover>* {
+    padding: 12px 0px;
+    border-bottom: 1px solid lightgrey;
+
+}
+
+#userProfile>* {
+    padding: 12px 0px;
+}
+
+#signinHeader {
+    font-weight: bold;
+}
+
+#createAcc {
+    text-align: center;
+    color: #0D5AB9;
+}
+
+#moreTravel {
+    width: 280px;
+    padding: 16px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+#moreTravel>* {
+    padding: 12px 24px;
+}
+
+.iconstyle {
+    display: flex;
+}
+
+.iconstyle>div {
+    margin-left: 14px;
+}
+
+.linkstyle {
+    align-items: center;
+}
+
+#rightbar {
+    display: flex;
+    margin-left: auto;
+}
+
+
+#rightbar>* {
+    margin: 12px;
+}
+
+
+#rightbar>*:hover {
+    text-decoration: underline;
+}
+
+#popoverid:hover {
+    text-decoration: underline;
+}
+
+/* #popoverid1 {
+    color: rgba(161, 172, 122, 0.606)
+} */

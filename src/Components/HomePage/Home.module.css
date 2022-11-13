@@ -1,0 +1,299 @@
+.container {
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    background: #F0F3F5;
+}
+
+.forms {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/08/13/TVLY_CheersTo25YearsSale_imgB_1920x1440_20210813.jpg");
+    width: 100vw;
+    background-position: bottom;
+    background-size: 100vw;
+    padding: 50px 0px;
+}
+
+.formsContainer {
+    width: 80vw;
+    margin: auto;
+    background-color: white;
+    border-radius: 0.5rem;
+}
+
+.offerTop {
+    color: white;
+    width: 80vw;
+    margin: 15px auto;
+}
+
+.offerTop > h3 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 2rem;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.offerTop > p{
+    font-size: 1.125rem;
+    font-weight: 500;
+    width: 50%;
+    margin: 5px 0px;
+}
+
+.offerTop > button {
+    border-color: #a1aab3;
+    border-radius: 0.5rem;
+    border-width: 1px;
+    background-color: #fff;
+    color: #0d5ab9;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    min-height: 2.25rem;
+    padding: 0.25rem 1rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    cursor: pointer;
+}
+
+.header {
+    border-radius: 0.5rem 0.5rem 0px 0px;
+    box-shadow: 0px 2px 0px -1px rgb(0 0 0 / 20%);
+    background: white;
+    padding-top: 15px;
+}
+
+.info1 {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/08/04/TVLY_VaccineCampaign_imgB_1199x399_20210804.jpg"), linear-gradient(
+        270deg
+        , rgba(0,11,38,0) 5rem, rgba(0,11,38,0.4), rgba(0,1,38,0.5));;
+    width: 80vw;
+    height: 20vw;
+    margin: 30px auto;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-size: cover;
+    color: white;
+}
+
+.info1InnerDiv {
+    display: flex;
+    align-items: center;
+    height: 20vw;
+}
+
+.info1Heading {
+    font-size: 1.75rem;
+    font-weight: 700;
+    padding: 0rem 1.5rem;
+    margin: 0;
+    color: white;
+
+}
+
+.info1Para {
+    font-size: 1.125rem;
+    padding: 0rem 1.5rem;
+    /* margin: 0; */
+}
+
+.info1Btn {
+    margin: 0rem 1.5rem;
+    border: none;
+    background: white;
+    padding: 10px 15px;
+    border-radius: 6px;
+    border-color: #a1aab3;
+    border-width: 1px;
+    color: #0d5ab9;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    cursor: pointer;
+}
+
+.info1Btn:hover {
+    filter: contrast(0.85);
+
+}
+
+.info1BottomPara {
+    width: 80vw;
+    margin: 10px auto;
+}
+
+.info1BottomPara > p {
+    color: #505c66;
+    font-size: 0.875rem;
+    font-weight: 400;
+}
+
+.info2 {
+    width: 80vw;
+    margin: 50px auto;
+}
+
+.info2Img {
+    background-image: url('https://tpc.googlesyndication.com/simgad/5754524239753144788?'); 
+    background-position: 50% 50%;
+    height: 214px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px 10px 0px 0px;
+    position: relative;
+    top: -1px;
+}
+
+.info2ImgDescription {
+    padding: 0px 10px;
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.info2OfferDes {
+    margin-left: 20px;
+    color: #001959;
+}
+
+.info2OfferDes > h1 {
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+.info2OfferDes > p {
+    font-weight: 400;
+    font-size: 0.875rem;
+}
+
+.info2Right {
+    margin-left: 10px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 10px;
+    background: white;
+    display: flex;
+    align-items: center;
+}
+
+.info2RightImg1 {
+    background-image: url("https://tpc.googlesyndication.com/simgad/11126085391835719289?");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 30%;
+    height: 145px;
+    background-size: cover;
+    border-radius: 9.5px 0px 0px 9.5px;
+}
+
+.info2RightImg2 {
+    background-image: url("https://tpc.googlesyndication.com/simgad/4885167890549748352?");
+}
+
+.info2Right > div > h2 {
+    color: #001959;
+    font-size: 1.125rem;
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.info2Right > div > p {
+    color: #465280;
+    font-size: 0.875rem;
+    font-weight: 400;
+    margin: 10px;
+}
+
+
+.info3 {
+    width: 80vw;
+    margin: auto;
+}
+
+.info3Heading {
+    color: #242c33;
+    font-size: 1.75rem;
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+.info3BgImg1, .info3BgImg2, .info3BgImg3, .info3BgImg4 {
+    height: 200px;
+    width: 95%;
+    background: gray;
+    border-radius: 10px;
+    position: relative;
+    margin: auto;
+}
+
+.info3BgImg1 {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/06/23/TVLY_SeizeYourSomeday_Family_imgB_900x506_20210623.jpg?impolicy=fcrop&w=900&h=600&q=mediumHigh");
+    background-size: cover;
+}
+
+.info3BgImg2 {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/06/23/TVLY_SeizeYourSomeday_BeachDeals_imgB_900x506_20210623.jpg?impolicy=fcrop&w=900&h=600&q=mediumHigh");
+    background-size: cover;
+}
+
+.info3BgImg3 {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/06/23/TVLY_SeizeYourSomeday_AdventureDeals_imgB_900x506_20210623.jpg?impolicy=fcrop&w=900&h=600&q=mediumHigh");
+    background-size: cover;
+}
+
+.info3BgImg4 {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/06/24/TVLY_SeizeYourSomeday_AllInclusiveResorts_imgB_900x506_20210624.jpg?impolicy=fcrop&w=900&h=600&q=mediumHigh");
+    background-size: cover;
+}
+
+
+.info3BgImg1 > h3 , .info3BgImg2 > h3 , .info3BgImg3 > h3 , .info3BgImg4 > h3 {
+    margin: 0;
+    text-shadow: 0px 1px 2px rgb(17 21 26 / 80%);
+    color: white;
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: 1.375rem;
+    position: absolute;
+    bottom: 0;
+    padding: 10px 15px;
+}
+
+.infoVideo {
+    width: 80vw;
+}
+
+.infoVideo > iframe {
+    width: 100%;
+    height: 450px;
+    border-radius: 10px;
+    border: none;
+}
+
+
+.infoFeaturedImg {
+    background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2020/12/08/TVLY_StoreFrontRefresh_InTheSpotlight_imgB_1200x565_20201207.jpg");
+    width: 100%;
+    height: 248px;
+    background-size: cover;
+    background-position: 0px 490px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.infoFeaturedOfferDetails {
+    position: absolute;
+    bottom: 8px;
+    padding-left: 20px;
+    color: #fff;
+}
+
+.infoFeaturedOfferDetails > h3 {
+    margin: 5px 0px;
+    font-size: 0.875rem;
+    line-height: calc(18 / 14);
+    font-weight: 700;
+}
+
+.infoFeaturedOfferDetails > p {
+    margin: 5px 0px;
+}
