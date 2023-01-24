@@ -4,11 +4,9 @@ This is the clone of the Travelocity website. Travelocity is an online travel ag
 
 **To see the live site click the below link.**
 
-https://travelocity-cloned.vercel.app/
+https://velvety-bubblegum-60e422.netlify.app/
 
-**To see the Demo Video of Website click the below link.**
 
-https://drive.google.com/file/d/1cne06JS_31IRoZFvgKtEKnhtZBVrnKZp/view?usp=sharing
 
 ## Built with
 <ul>
